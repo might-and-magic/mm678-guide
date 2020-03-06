@@ -1,5 +1,5 @@
 # Might and Magic Trilogy Merge: Iron Team's Journey
-Author: Fanasilver; Translators: Tom CHEN (1st paragraph only for now) & Google Translate (the rest)
+Author: Fanasilver; Translators: Tom CHEN (who has only translated the first two sections) & Google Translate (the rest)
 
 I learned about the MMMerge mod last year (2018), but at that time it was incomplete and there were problems with main quests. This year (2019), I saw a few friends from our online community who had finished the game, which made me itching to do the same. I contributed a few bucks to GOG and got the mm8, then immediately installed the MMMerge patch and started my journey.
 
@@ -27,11 +27,11 @@ There are some settings in MMMerge that greatly reduce the difficulty of the gam
 
 3) The chance that one can loot an items from a monster's corpse is reduced to 10%.
 
-We begin with 5 peasants, they will become Thief, Paladin, Clerics, Sorcerers and Knight respectively in New Sorpigal...
+We begin with 5 peasants, they will become Thief, Paladin, Cleric, Sorcerer and Knight respectively in New Sorpigal...
 
 <hr>
 
-Five peasants enter battle
+Five peasants start their journey
 
 ![](https://github.com/might-and-magic/mm678-guide/raw/master/img/walkthrough/001.jpg)
 
@@ -41,11 +41,11 @@ Five peasants enter battle
 
 ![](https://github.com/might-and-magic/mm678-guide/raw/master/img/walkthrough/004.jpg)
 
-Organize your body, only this +4 disassembled ring is worth keeping
+Arrange items, only this +4 Disarm Trap ring is worth keeping
 
 ![](https://github.com/might-and-magic/mm678-guide/raw/master/img/walkthrough/005.jpg)
 
-Visit various experts to transfer, among them the thief is the identification technology on the second floor of the hotel, the soul expert is turned to the paladin, the fitness expert is turned to the soldier, the limb expert is turned to the priest, and the fire department is turned to the warlock.
+Visit experts to change character's class. Thief: Identify Skill expert on the second floor of the hotel; Paladin: Spirit Magic expert; Knight: Body Building expert; Cleric: Body Magic expert; Sorcerer: Fire Magic expert.
 
 ![](https://github.com/might-and-magic/mm678-guide/raw/master/img/walkthrough/006.jpg)
 

@@ -1,5 +1,5 @@
 # Might and Magic Trilogy Merge: Iron Team's Journey
-Author: Fanasilver; Translators: Tom CHEN (who has only translated the first two sections) & Google Translate (the rest)
+Author: Fanasilver; Translators: Tom CHEN (who has translated the first two sections) & Google Translate (the rest) ([中文](https://might-and-magic.github.io/mm678-guide/zh/walkthrough/))
 
 I learned about the MMMerge mod last year (2018), but at that time it was incomplete and there were problems with main quests. This year (2019), I saw a few friends from our online community who had finished the game, which made me itching to do the same. I contributed a few bucks to GOG and got the mm8, then immediately installed the MMMerge patch and started my journey.
 

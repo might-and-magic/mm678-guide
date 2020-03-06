@@ -1,5 +1,5 @@
 # 魔法门三部曲整合版铁人游记
-作者：Fanasilver 版权属于作者
+作者：Fanasilver 版权属于作者 ([English](https://might-and-magic.github.io/mm678-guide/walkthrough/))
 
 去年（2018年）就得知MMMerge这个mod，但是当时它还很不完善，通关都有问题。今年（2019年）看到几位吧友已经打出来了通关结局，心痒，给gog贡献了十几RMB买了mm8正版，然后迫不及待地打好补丁开始游历。
 

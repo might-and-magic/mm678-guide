@@ -1,6 +1,6 @@
 # MM678 Guide
-Might and Magic 6, 7, 8 and Might and Magic Merge Guide
+Might and Magic 6, 7, 8 and Might and Magic Merge Guide. It has only one walkthrough article for now.
 
-[English version](https://might-and-magic.github.io/mm678-guide/)
+[Walkthrough in English](https://might-and-magic.github.io/mm678-guide/walkthrough/)
 
-[简体中文版 Chinese version](https://might-and-magic.github.io/mm678-guide/zh/)
+[简体中文版流程攻略 Walkthrough in Chinese](https://might-and-magic.github.io/mm678-guide/zh/walkthrough/)

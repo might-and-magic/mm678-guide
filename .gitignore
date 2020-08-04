@@ -132,6 +132,21 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# WebStorm
+.idea/
+
+# vi
+*~
+
+# General
+log/
+*.log
 
 # === MicrosoftOffice.gitignore ===
 
